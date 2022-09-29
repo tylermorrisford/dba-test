@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dba-test/static/css/main.706fb50e.css",
-    "main.js": "/dba-test/static/js/main.27ad995c.js",
+    "main.js": "/dba-test/static/js/main.b44a59d3.js",
     "index.html": "/dba-test/index.html",
     "main.706fb50e.css.map": "/dba-test/static/css/main.706fb50e.css.map",
-    "main.27ad995c.js.map": "/dba-test/static/js/main.27ad995c.js.map"
+    "main.b44a59d3.js.map": "/dba-test/static/js/main.b44a59d3.js.map"
   },
   "entrypoints": [
     "static/css/main.706fb50e.css",
-    "static/js/main.27ad995c.js"
+    "static/js/main.b44a59d3.js"
   ]
 }
