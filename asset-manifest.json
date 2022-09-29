@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dba-test/static/css/main.706fb50e.css",
+    "main.js": "/dba-test/static/js/main.27ad995c.js",
+    "index.html": "/dba-test/index.html",
+    "main.706fb50e.css.map": "/dba-test/static/css/main.706fb50e.css.map",
+    "main.27ad995c.js.map": "/dba-test/static/js/main.27ad995c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.706fb50e.css",
+    "static/js/main.27ad995c.js"
+  ]
+}
