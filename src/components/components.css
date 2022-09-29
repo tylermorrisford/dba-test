@@ -1,0 +1,20 @@
+section {
+  padding: 3.5vh 3.5vw 12vh 3.5vw;
+  height: 100vh;
+}
+
+.snapChild {
+  scroll-snap-align: start;
+}
+
+.lightYellow {
+  background-color: lightgoldenrodyellow;
+}
+
+.whitesmoke {
+  background-color: whitesmoke;
+}
+
+.yellow {
+  background-color: lightyellow;
+}
